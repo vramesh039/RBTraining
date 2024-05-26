@@ -1,1 +1,3 @@
-This is sample.js file
+function newFunction(){
+    console.log("This is sample.js file");
+}
